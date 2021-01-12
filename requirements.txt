@@ -1,0 +1,14 @@
+tensorflow==1.15
+requests
+pandas
+tensorrec
+networkx
+node2vec
+gensim
+matplotlib
+fuzzywuzzy
+flair 
+seaborn 
+sklearn
+bert_embedding
+tensorflow_hub
