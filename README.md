@@ -1,4 +1,4 @@
-This project is consist of the files and Jupyter notebooks, used for the Master Thesis project 
+This project consists of the files and Jupyter notebooks, used for the Master Thesis project, and the master thesis itself. 
 
 ## USING STRUCTURED INFORMATION FROM TAGS FOR BOOK RECOMMENDATIONS
 
